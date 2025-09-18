@@ -11,14 +11,12 @@
             "id": "4f0e6ff25e9dfd02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DSA/Sorting Algorithms/Bubble Sort.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/ga7wRus-1019x720.png"
               },
-              "icon": "lucide-file",
-              "title": "Bubble Sort"
+              "icon": "lucide-image",
+              "title": "ga7wRus-1019x720"
             }
           }
         ]
@@ -179,18 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f0e6ff25e9dfd02",
+  "active": "785155ef7b1f08d1",
   "lastOpenFiles": [
+    "DSA/Sorting Algorithms/Bubble Sort.md",
     "Backend/CloudFlared.md",
     "Backend/HTTP/Domain Name System.md",
     "Backend/HTTP/Hyper Text Transfer Protocol.md",
     "Backend/HTTP/Web Addresses.md",
-    "http-request-headers.png",
+    "Images/http-request-headers.png",
     "Backend/HTTP/HTTP URls.md",
-    "ga7wRus-1019x720.png",
-    "Pasted image 20250917201423.png",
+    "Images/ga7wRus-1019x720.png",
+    "Images/Pasted image 20250917201423.png",
     "Images/Pasted image 20250917200609.png",
-    "DSA/Sorting Algorithms/Bubble Sort.md",
     "Backend/HTTP",
     "DSA/Sorting Algorithms/Insertion Sort.md",
     "DSA/Sorting Algorithms/Radix Sort.md",
