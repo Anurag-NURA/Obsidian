@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "103438893bafb125",
+    "type": "split",
+    "children": [
+      {
+        "id": "22375631609944ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad04d86907f34b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/HTTP/Domain Name System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain Name System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddd491df7bf6218e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be0039f5c10635e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "785155ef7b1f08d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "47c9ab87c40572d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ca6a3313cff64a60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.51103591918945,
+    "collapsed": true
+  },
+  "right": {
+    "id": "16db13da704ad6b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e541047ba731b398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816b130706f8ae33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA/Trees.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Trees"
+            }
+          },
+          {
+            "id": "c687cdb96a858df9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Redis/Redis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Redis"
+            }
+          },
+          {
+            "id": "e4ab3a83d06a81b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "732d75fee477b756",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSA/Binary Search Tree.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Binary Search Tree"
+            }
+          },
+          {
+            "id": "56fb423d3e9358ad",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ad04d86907f34b0b",
+  "lastOpenFiles": [
+    "Backend/HTTP/Domain Name System.md",
+    "Backend/HTTP/Hyper Text Transfer Protocol.md",
+    "Backend/HTTP/Web Addresses.md",
+    "http-request-headers.png",
+    "Backend/HTTP/HTTP URls.md",
+    "ga7wRus-1019x720.png",
+    "Pasted image 20250917201423.png",
+    "Images/Pasted image 20250917200609.png",
+    "DSA/Sorting Algorithms/Bubble Sort.md",
+    "Backend/HTTP",
+    "DSA/Sorting Algorithms/Insertion Sort.md",
+    "DSA/Sorting Algorithms/Radix Sort.md",
+    "DSA/Sorting Algorithms/Selection Sort.md",
+    "DSA/Sorting Algorithms/Sorting Algorithms.md",
+    "DSA/Sorting Algorithms/Quick Sort.md",
+    "DSA/Sorting Algorithms/Merge Sort.md",
+    "Backend/Cloud/Docker/Docker.md",
+    "NextJS/Reserved Filenames.md",
+    "Git/Renaming branches.md",
+    "NextJS",
+    "Git/Updating.md",
+    "Backend/Cloud/Docker/Docker Postgres.md",
+    "Images/Pasted image 20250807101540.png",
+    "Images/Pasted image 20250807101312.png",
+    "Backend/Cloud/Docker",
+    "Backend/PostgreSQL.md",
+    "WSL/Oh-my-posh.md",
+    "WSL/WSL Commands.md",
+    "WSL/Tmux.md",
+    "WSL/Neovim.md",
+    "Backend/MongoDB/Schema Validation.md",
+    "Testing/Integration Testing.md",
+    "Testing/Snapshot Testing.md",
+    "Images/Pasted image 20250725181256.png",
+    "Testing/Unit Testing.md",
+    "Testing/Testing.md",
+    "Images/Pasted image 20250708212720.png",
+    "Testing",
+    "Images/Pasted image 20250708212943.png",
+    "Images/Pasted image 20250709095523.png",
+    "Backend/Access Control",
+    "DSA/Leetcode",
+    "Backend/MongoDB",
+    "Typescript",
+    "DSA/Graphs",
+    "Untitled.canvas",
+    "DSA/Trees"
+  ]
+}

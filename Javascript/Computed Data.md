@@ -1,0 +1,1 @@
+Lets consider the situation in which messages of a chat are stored in a form of tables, which contains read and unread messages of the chat. The number that the table displays is done through some computation. This is called Computed Data.
