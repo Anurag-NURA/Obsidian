@@ -1,4 +1,4 @@
-It is a simple sorting algorithm in which `i` index value is compared with it's next index value i.e., `i+1` and if founded larger than next value than a swap is performed. With each iteration the size of the for comparison keep getting smaller and values keep getting arranged from right side having the larger value and then never compared again.
+It is a simple sorting algorithm in which `ith` index value is compared with it's next index value i.e., `i+1` and if founded larger than next value than a swap is performed. With each iteration the size of the for comparison keep getting smaller and values keep getting arranged from right side having the larger value and then never compared again.
 
 Bubble Sort for Array of Integers
 ```C
