@@ -2,17 +2,17 @@ It is a simple sorting algorithm in which `ith` index value is compared with it'
 
 Bubble Sort for Array of Integers
 ```C
-int bubbleSort(int arr[], int size){
-  for (int i=0; i<size-1; ++i) {
-    for (int j=0; j<size-i-1; ++j) {
-      if (arr[j]>arr[j+1]) {
-      //below is just a swap value logic
-        int temp = arr[j];
-        arr[j] = arr[j+1];
-        arr[j+1] = temp;
-      } 
-    }
-  }
+void bubbleSort(int arr[], int size){
+	for (int i=0; i<size-1; ++i) {
+		for (int j=0; j<size-i-1; ++j) {
+			if (arr[j]>arr[j+1]) {
+				//below is just a swap value logic
+				int temp = arr[j];
+				arr[j] = arr[j+1];
+				arr[j+1] = temp;
+			} 
+		}
+	}
 }
 ```
  we did size-2 instead of size-1 because it could have caused a bug where the last element would have tried to access index which is out of bound from original size array.

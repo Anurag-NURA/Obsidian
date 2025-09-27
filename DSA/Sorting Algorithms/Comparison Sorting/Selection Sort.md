@@ -5,10 +5,10 @@ Then we will iterate in such a manner that the previous iterated integer will be
 The very last element will already be its place i.e., the highest/largest element will be at the last index of the sorted array. 
 
 ```C
-int selectionSort(int arr[], int size){
-	for(int i=0; i<=size-2; i++){
+void selectionSort(int arr[], int size){
+	for(int i=0; i<size-1; i++){
 		int indexMin = i;
-		for(int j=0; i<=size-1; j++){
+		for(int j=i+1; j<size; j++){
 			if(arr[j]<arr[indexMin]){
 				indexMin = j;
 			}
