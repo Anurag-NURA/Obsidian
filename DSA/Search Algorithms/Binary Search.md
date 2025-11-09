@@ -7,56 +7,56 @@ It works by repeatedly dividing the search interval in **half**, making it much 
 
 ```C
 int iterativeBinarySearch(int arr[], int size, int target) {
-  int left = 0, right = size - 1;
-
-  //iterate till the elements on the left are smaller 
-  //or equal than the elements on the right
-  while (left <= right) {
-    int mid = left + (right - left) / 2;
-    //calculating using low+high/2 is not prefered
-    //as this can overflow for value of long interger
-
-    // Check if target is present at mid
-    if (arr[mid] == target) {
-        return mid;
-      //we will exit as soon as we find any (first or last) occurrence of the target
-    }
-
-    // If target is greater, ignore the left half
-    if (arr[mid] < target) {
-        left = mid + 1;
-    }
-    
-    // If target is smaller, ignore the right half
-    if (arr[mid] > target) {
-        right = mid - 1;
-    }
-  }
-  // Target not found
-  return -1;
+	int left = 0, right = size - 1;
+	
+	//iterate till the elements on the left are smaller 
+	//or equal than the elements on the right
+	while (left <= right) {
+	    int mid = left + (right - left) / 2;
+		//calculating using low+high/2 is not prefered
+		//as this can overflow for value of long interger
+	
+	// Check if target is present at mid
+	if (arr[mid] == target) {
+		return mid;
+	//we will exit as soon as we find any (first or last) occurrence of the target
+	}
+	
+	// If target is greater, ignore the left half
+	if (arr[mid] < target) {
+		left = mid + 1;
+	}
+	
+	// If target is smaller, ignore the right half
+	if (arr[mid] > target) {
+		right = mid - 1;
+	}
+}
+	// Target not found
+	return -1;
 }
 ```
 
 ### __2. Recursive Binary Search___
 ```C
 int recursiveBinarySearch(int arr[], int low, int high, int target){
-  //it is very much similar to iterativeBinarySearch method
-  //the only difference is that rather iterating we are calling the same function
-  //with updated low or high values depending on the condition
-  int mid = 0;
-  
-  if (low>high) {
-    return -1;
-  }
-  mid = low + (high-low)/2;
-
-  if(target == arr[mid]){
-    return mid;
-  }else if(target<arr[mid]){
-    recursiveBinarySearch(arr, low, mid-1, target);
-  }else if(target>arr[mid]){
-    recursiveBinarySearch(arr, mid+1, high, target);
-  }
+	//it is very much similar to iterativeBinarySearch method
+	//the only difference is that rather iterating we are calling the same function
+	//with updated low or high values depending on the condition
+	int mid = 0;
+	
+	if (low>high) {
+		return -1;
+	}
+		mid = low + (high-low)/2;
+			
+	if(target == arr[mid]){
+		return mid;
+	}else if(target<arr[mid]){
+		recursiveBinarySearch(arr, low, mid-1, target);
+	}else if(target>arr[mid]){
+		recursiveBinarySearch(arr, mid+1, high, target);
+	}
 }
 ```
 
