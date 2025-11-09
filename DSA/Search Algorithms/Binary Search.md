@@ -15,23 +15,23 @@ int iterativeBinarySearch(int arr[], int size, int target) {
 	    int mid = left + (right - left) / 2;
 		//calculating using low+high/2 is not prefered
 		//as this can overflow for value of long interger
-	
-	// Check if target is present at mid
-	if (arr[mid] == target) {
-		return mid;
-	//we will exit as soon as we find any (first or last) occurrence of the target
+		
+		// Check if target is present at mid
+		if (arr[mid] == target) {
+			//exit, if find any (first or last) occurrence of the target
+			return mid;
+		}
+			
+		// If target is greater, ignore the left half
+		if (arr[mid] < target) {
+			left = mid + 1;
+		}
+			
+		// If target is smaller, ignore the right half
+		if (arr[mid] > target) {
+			right = mid - 1;
+		}
 	}
-	
-	// If target is greater, ignore the left half
-	if (arr[mid] < target) {
-		left = mid + 1;
-	}
-	
-	// If target is smaller, ignore the right half
-	if (arr[mid] > target) {
-		right = mid - 1;
-	}
-}
 	// Target not found
 	return -1;
 }
