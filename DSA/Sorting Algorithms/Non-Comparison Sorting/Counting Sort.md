@@ -27,6 +27,22 @@ Counting Sort is a sorting algorithm that works by **counting the occurrences** 
 ### **O(n + k)**
 - Needs extra arrays (`count array` + `output array`)
 
+# Best, Average and Worst cases:
+
+Counting Sort behaves **the same** in _worst_, _average_, and _best_ cases — because it **does not depend on comparisons** and **does not depend on how the input elements are arranged**.
+
+So its complexity is driven **only by**:
+- **n** = number of elements
+- **k** = range of elements (0 to max value)
+### 🎯 Summary Table
+
+| Case        | Time Complexity | Reason                                        |
+| ----------- | --------------- | --------------------------------------------- |
+| **Best**    | O(n + k)        | Must count + cumulative sum + fill output     |
+| **Average** | O(n + k)        | Algorithm behavior is input-order independent |
+| **Worst**   | O(n + k)        | No comparisons, unaffected by disorder        |
+
+
 ![[3b1ec73b-695c-4cf3-8794-f0307b018519.png]]
 
 ![[Pasted image 20251123203947.png]]

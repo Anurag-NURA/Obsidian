@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Sorting Algorithms/Non-Comparison Sorting/Counting Sort.md",
+                "file": "DSA/Sorting Algorithms/Non-Comparison Sorting/Radix Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Counting Sort"
+              "title": "Radix Sort"
             }
           }
         ]
@@ -176,11 +176,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "6650668fd23ecb8f",
   "lastOpenFiles": [
+    "copilot-custom-prompts/Rewrite as press release.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "DSA/Sorting Algorithms/Non-Comparison Sorting/Counting Sort.md",
     "Images/Pasted image 20251123203947.png",
     "Images/3b1ec73b-695c-4cf3-8794-f0307b018519.png",
     "DSA/Sorting Algorithms/Comparison Sorting/Merge Sort.md",
@@ -206,28 +223,12 @@
     "Interview/Nagarro",
     "Interview",
     "DSA/Sorting Algorithms/Non-Comparison Sorting/Bucket Sort.md",
-    "DSA/Sorting Algorithms/Non-Comparison Sorting/Counting Sort.md",
-    "DSA/Sorting Algorithms/Comparison Sorting/Insertion Sort.md",
-    "DSA/Sorting Algorithms/Comparison Sorting/Quick Sort.md",
-    "DSA/Sorting Algorithms/Comparison Sorting/Bubble Sort.md",
-    "DSA/Sorting Algorithms/Non-Comparison Sorting/Radix Sort.md",
-    "DSA/Sorting Algorithms/Comparison Sorting/Selection Sort.md",
-    "DSA/Sorting Algorithms/Comparison Sorting/Heap Sort.md",
-    "Backend/HTTP/Domain Name System.md",
-    "Backend/HTTP/Web Addresses.md",
-    "Backend/MongoDB/Schema Design.md",
-    "Backend/MongoDB/Aggregation Pipelines (framework).md",
-    "Backend/MongoDB/Schema Validation.md",
-    "Backend/Prisma.md",
-    "Backend/PostgreSQL.md",
     "Backend/Access Control/Untitled",
-    "Images/Pasted image 20250921081610.png",
     "DSA/Sorting Algorithms/Non-Comparison Sorting",
     "DSA/Sorting Algorithms/Comparison Sorting",
     "AI",
     "Backend/HTTP",
     "NextJS",
-    "Backend/Cloud/Docker",
     "Untitled.canvas"
   ]
 }
