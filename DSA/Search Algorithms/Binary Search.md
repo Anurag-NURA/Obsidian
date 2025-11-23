@@ -48,8 +48,8 @@ int recursiveBinarySearch(int arr[], int low, int high, int target){
 	if (low>high) {
 		return -1;
 	}
-		mid = low + (high-low)/2;
-			
+	mid = low + (high-low)/2;
+	
 	if(target == arr[mid]){
 		return mid;
 	}else if(target<arr[mid]){
