@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/JavaScript.md",
+                "file": "WSL/Neovim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "Neovim"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.51103591918945
+    "width": 260.51103591918945
   },
   "right": {
     "id": "16db13da704ad6b9",
@@ -179,10 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "785155ef7b1f08d1",
+  "active": "f5df8e734e57c09a",
   "lastOpenFiles": [
-    "Javascript/Objects.md",
+    "WSL/WSL Commands.md",
+    "WSL/Tmux.md",
+    "WSL/Oh-my-posh.md",
+    "WSL/Neovim.md",
+    "Pasted image 20251123220124.png",
     "Interview/JavaScript.md",
+    "Javascript/Objects.md",
     "Interview/JSON Interview.md",
     "DSA/Sorting Algorithms/Comparison Sorting/Bubble Sort.md",
     "DSA/Sorting Algorithms/Comparison Sorting/Merge Sort.md",
@@ -190,7 +195,6 @@
     "DSA/Sorting Algorithms/Comparison Sorting/Insertion Sort.md",
     "DSA/Sorting Algorithms/Comparison Sorting/Selection Sort.md",
     "DSA/Sorting Algorithms/Non-Comparison Sorting/Radix Sort.md",
-    "Pasted image 20251123220124.png",
     "AI/Prompting.md",
     "2025-11-23.md",
     "copilot-custom-prompts/Rewrite as press release.md",
@@ -204,11 +208,7 @@
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "DSA/Sorting Algorithms/Non-Comparison Sorting/Counting Sort.md",
     "Images/Pasted image 20251123203947.png",
     "Images/3b1ec73b-695c-4cf3-8794-f0307b018519.png",
     "diagram-export-26-10-2025-9_57_36-pm 1.svg",
