@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "43225013358d8ebd",
+        "id": "bcdf84295ad1a6b6",
         "type": "tabs",
         "children": [
           {
-            "id": "f5df8e734e57c09a",
+            "id": "90caa51601e352af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WSL/Neovim.md",
+                "file": "tRPC/Setup with React-query.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neovim"
+              "title": "Setup with React-query"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51103591918945
+    "width": 260.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "16db13da704ad6b9",
@@ -180,16 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5df8e734e57c09a",
+  "active": "90caa51601e352af",
   "lastOpenFiles": [
+    "tRPC/Setup with React-query.md",
+    "tRPC",
+    "Typescript/Untitled",
+    "Interview/JSON Interview.md",
+    "Interview/JavaScript.md",
+    "WSL/Neovim.md",
     "WSL/WSL Commands.md",
     "WSL/Tmux.md",
     "WSL/Oh-my-posh.md",
-    "WSL/Neovim.md",
     "Pasted image 20251123220124.png",
-    "Interview/JavaScript.md",
     "Javascript/Objects.md",
-    "Interview/JSON Interview.md",
     "DSA/Sorting Algorithms/Comparison Sorting/Bubble Sort.md",
     "DSA/Sorting Algorithms/Comparison Sorting/Merge Sort.md",
     "DSA/Sorting Algorithms/Comparison Sorting/Quick Sort.md",
@@ -208,7 +212,6 @@
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts",
     "Images/Pasted image 20251123203947.png",
     "Images/3b1ec73b-695c-4cf3-8794-f0307b018519.png",
@@ -227,8 +230,6 @@
     "DSA/Sorting Algorithms/Non-Comparison Sorting",
     "DSA/Sorting Algorithms/Comparison Sorting",
     "AI",
-    "Backend/HTTP",
-    "NextJS",
     "Untitled.canvas"
   ]
 }
