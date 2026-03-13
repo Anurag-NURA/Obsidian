@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcdf84295ad1a6b6",
+        "id": "652ab4fdba0da370",
         "type": "tabs",
         "children": [
           {
-            "id": "90caa51601e352af",
+            "id": "45ac5621ec6ebe4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,9 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90caa51601e352af",
+  "active": "45ac5621ec6ebe4e",
   "lastOpenFiles": [
+    "tRPC/tRPC caller.md",
     "tRPC/Setup with React-query.md",
+    "tRPC/Routers.md",
+    "tRPC/Procedures.md",
+    "tRPC/Prefetching.md",
     "tRPC",
     "Typescript/Untitled",
     "Interview/JSON Interview.md",
@@ -208,10 +211,6 @@
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts",
     "Images/Pasted image 20251123203947.png",
     "Images/3b1ec73b-695c-4cf3-8794-f0307b018519.png",
