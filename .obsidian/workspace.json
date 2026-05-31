@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "15e3c0c204427bdb",
+        "id": "d19e12fe30256cf0",
         "type": "tabs",
         "children": [
           {
-            "id": "ba5d469a4db66b57",
+            "id": "350c9069141095f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "System Design/TickerMaster.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "TickerMaster"
             }
           }
         ]
@@ -160,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 467.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,11 +180,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "ba5d469a4db66b57",
+  "active": "350c9069141095f3",
   "lastOpenFiles": [
+    "System Design",
+    "System Design/TickerMaster.canvas",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
     "Images/Pasted image 20260524222644.png",
     "Images/Pasted image 20260524220503.png",
     "Images/Pasted image 20260524220319.png",
@@ -215,14 +229,10 @@
     "AI/Structured Output.md",
     "AI/System Prompting.md",
     "AI/Zero-Shot Prompting.md",
-    "Untitled.base",
-    "Untitled.canvas",
     "Agentic AI",
     "Backend/Inngest",
     "tRPC",
     "Typescript/Untitled",
-    "copilot-custom-prompts",
-    "Backend/Autherization/Untitled.canvas",
-    "Backend/Autherization"
+    "Backend/Autherization/Untitled.canvas"
   ]
 }
