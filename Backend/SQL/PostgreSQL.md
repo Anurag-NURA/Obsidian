@@ -8,6 +8,16 @@ To check if PostgreSQL is running in the background:
 sudo systemctl status postgresql
 ```
 
+if PostgreSQL is not running in the background:
+```shell
+sudo service postgresql start
+```
+
+if PostgreSQL needed to be stopped in the background:
+```shell
+sudo service postgresql stop 
+```
+
 Connect to PostgreSQL:
 ```bash
 sudo -su postgres psql 
@@ -113,3 +123,8 @@ Command to list all users connected to a database:
 ```bash
 sudo -u postgres psql -c "SELECT pid, usename, application_name, client_addr, backend_start FROM pg_stat_activity WHERE datname = 'anurag-dbs';"
 ```
+
+
+# How to use pgAdmin4 ?
+
+![[Pasted image 20260506194803.png]]

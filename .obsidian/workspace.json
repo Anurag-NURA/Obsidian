@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f029e92e1b2e4260",
+        "id": "15e3c0c204427bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6440acbf6f2588",
+            "id": "ba5d469a4db66b57",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "API Interview Questions.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "API Interview Questions"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#rose_pine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trees"
+              "title": "Backlinks"
             }
           },
           {
@@ -126,7 +123,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -138,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Binary Search Tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Binary Search Tree"
+              "title": "Outline"
             }
           },
           {
@@ -177,55 +175,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f6440acbf6f2588",
+  "active": "ba5d469a4db66b57",
   "lastOpenFiles": [
+    "Images/Pasted image 20260524222644.png",
+    "Images/Pasted image 20260524220503.png",
+    "Images/Pasted image 20260524220319.png",
+    "Images/Pasted image 20260524220101.png",
+    "DSA/Graphs/Graph Representation.md",
+    "Backend/SQL/Prisma + Supabase.md",
+    "Images/Pasted image 20260524222620.png",
+    "Images/Pasted image 20260524220116.png",
+    "Backend/SQL/psql.md",
+    "Backend/SQL/PostgreSQL.md",
+    "Backend/SQL/MySql.md",
+    "Backend/SQL",
+    "Images/3b1ec73b-695c-4cf3-8794-f0307b018519.png",
+    "Images/Pasted image 20260506194803.png",
+    "Images/Pasted image 20251123203947.png",
+    "Images/Pasted image 20260506194803 1.png",
+    "tRPC/Procedures.md",
+    "tRPC/Prefetching.md",
+    "tRPC/RPC vs Prisma.md",
+    "tRPC/Routers.md",
+    "tRPC/tRPC caller.md",
+    "Backend/Prisma.md",
+    "WSL/WSL Commands.md",
+    "WSL/Neovim.md",
+    "WSL/Oh-my-posh.md",
+    "Backend/MongoDB/Aggregation Pipelines (framework).md",
+    "Backend/CloudFlared.md",
+    "Backend/Express.md",
+    "Backend/Mongoose.md",
+    "tRPC/Setup with React-query.md",
+    "DSA/Search Algorithms/Binary Search.md",
+    "GoLang",
+    "API Interview Questions.pdf",
     "AI/Chain-of-Thought (CoT).md",
     "AI/Prompting.md",
     "AI/Structured Output.md",
     "AI/System Prompting.md",
     "AI/Zero-Shot Prompting.md",
-    "Javascript/Reference Vs Primitive Value.md",
-    "Javascript/Questions.md",
-    "Javascript/Proxy.md",
-    "Javascript/Objects.md",
-    "Javascript/Computed Data.md",
-    "Javascript/Compose Functions.md",
-    "Images/Pasted image 20240727112236.png",
-    "Pasted image 20250919232909.png.md",
-    "AI/Few-Shot Prompting.md",
-    "Agentic AI/Topics.md",
     "Untitled.base",
     "Untitled.canvas",
-    "API Interview Questions.pdf",
-    "NextJS/Reserved Filenames.md",
-    "Interview/JavaScript.md",
-    "tRPC/RPC vs Prisma.md",
     "Agentic AI",
-    "Frontend/Hydration.md",
-    "Frontend/React Query with Suspense.md",
-    "Frontend/React Suspense.md",
-    "Backend/Prisma.md",
-    "tRPC/Prefetching.md",
-    "Backend/Inngest/Agent Tools.md",
-    "Backend/Inngest/Inngest.md",
-    "Backend/Cloud/Docker/Docker.md",
-    "Backend/Untitled.md",
     "Backend/Inngest",
     "tRPC",
     "Typescript/Untitled",
-    "Pasted image 20251123220124.png",
     "copilot-custom-prompts",
-    "Images/Pasted image 20251123203947.png",
-    "Images/3b1ec73b-695c-4cf3-8794-f0307b018519.png",
-    "diagram-export-26-10-2025-9_57_36-pm 1.svg",
-    "diagram-export-26-10-2025-10_05_44-pm.png",
-    "diagram-export-26-10-2025-9_57_36-pm.svg",
     "Backend/Autherization/Untitled.canvas",
-    "Backend/Autherization",
-    "Images/Pasted image 20251004222046.png",
-    "Images/Pasted image 20251004222117.png",
-    "Images/Pasted image 20251004222104.png",
-    "Interview/Nagarro",
-    "Interview"
+    "Backend/Autherization"
   ]
 }
