@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d19e12fe30256cf0",
+        "id": "bf00f0e3bce6b4d9",
         "type": "tabs",
         "children": [
           {
-            "id": "350c9069141095f3",
+            "id": "6c76250e22403a56",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "System Design/TickerMaster.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "DSA/Leetcode/Hard Problems/Median of Two Sorted Arrays.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "TickerMaster"
+              "icon": "lucide-file",
+              "title": "Median of Two Sorted Arrays"
             }
           }
         ]
@@ -81,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51103591918945
+    "width": 317.5
   },
   "right": {
     "id": "16db13da704ad6b9",
@@ -97,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System Design/TicketMaster.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for TicketMaster.excalidraw"
             }
           },
           {
@@ -115,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Redis/Redis.md",
+                "file": "System Design/TicketMaster.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Redis"
+              "title": "Outgoing links from TicketMaster.excalidraw"
             }
           },
           {
@@ -144,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "System Design/TicketMaster.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of TicketMaster.excalidraw"
             }
           },
           {
@@ -161,14 +160,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "bc0753aa32e67fc0",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 467.5,
-    "collapsed": true
+    "width": 467.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,13 +189,46 @@
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "350c9069141095f3",
+  "active": "6c76250e22403a56",
   "lastOpenFiles": [
-    "System Design",
+    "DSA/Leetcode/Hard Problems",
+    "DSA/Leetcode/Hard Problems/Median of Two Sorted Arrays.md",
+    "WSL/WSL Commands.md",
+    "Interview/Enumerable.md",
+    "Interview/JavaScript.md",
+    "Interview/React.md",
+    "Images/Pasted image 20260628204706.png",
+    "Images/Pasted image 20260628204656.png",
+    "Frontend/React Fiber.md",
+    "AI/Few-Shot Prompting.md",
+    "python",
+    "Untitled.canvas",
+    "AI/Chain-of-Thought (CoT).md",
+    "System Design/TicketMaster.excalidraw.md",
+    "Design Patterns/Design Patterns.md",
+    "Excalidraw",
     "System Design/TickerMaster.canvas",
+    "System Design/Drawing 2026-05-31 11.34.43.excalidraw.md",
+    "copilot-custom-prompts/Clip Web Page.md",
+    "copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts",
+    "System Design",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
@@ -195,44 +236,13 @@
     "Images/Pasted image 20260524220503.png",
     "Images/Pasted image 20260524220319.png",
     "Images/Pasted image 20260524220101.png",
-    "DSA/Graphs/Graph Representation.md",
-    "Backend/SQL/Prisma + Supabase.md",
     "Images/Pasted image 20260524222620.png",
     "Images/Pasted image 20260524220116.png",
-    "Backend/SQL/psql.md",
-    "Backend/SQL/PostgreSQL.md",
-    "Backend/SQL/MySql.md",
     "Backend/SQL",
     "Images/3b1ec73b-695c-4cf3-8794-f0307b018519.png",
     "Images/Pasted image 20260506194803.png",
-    "Images/Pasted image 20251123203947.png",
-    "Images/Pasted image 20260506194803 1.png",
-    "tRPC/Procedures.md",
-    "tRPC/Prefetching.md",
-    "tRPC/RPC vs Prisma.md",
-    "tRPC/Routers.md",
-    "tRPC/tRPC caller.md",
-    "Backend/Prisma.md",
-    "WSL/WSL Commands.md",
-    "WSL/Neovim.md",
-    "WSL/Oh-my-posh.md",
-    "Backend/MongoDB/Aggregation Pipelines (framework).md",
-    "Backend/CloudFlared.md",
-    "Backend/Express.md",
-    "Backend/Mongoose.md",
-    "tRPC/Setup with React-query.md",
-    "DSA/Search Algorithms/Binary Search.md",
     "GoLang",
     "API Interview Questions.pdf",
-    "AI/Chain-of-Thought (CoT).md",
-    "AI/Prompting.md",
-    "AI/Structured Output.md",
-    "AI/System Prompting.md",
-    "AI/Zero-Shot Prompting.md",
-    "Agentic AI",
-    "Backend/Inngest",
-    "tRPC",
-    "Typescript/Untitled",
     "Backend/Autherization/Untitled.canvas"
   ]
 }
