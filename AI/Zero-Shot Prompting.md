@@ -1,5 +1,5 @@
 
-Zero-shot prompting is when you ask an AI model to perform a task **without giving it any examples beforehand**.
+#zero-shot-prompting is when you ask an AI model to perform a task **without giving it any examples beforehand**.
 
 - "Zero-shot" = **0 examples provided**.
 - The model relies only on the **instructions in your prompt** + its **pretrained knowledge**.

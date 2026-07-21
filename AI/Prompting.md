@@ -1,4 +1,4 @@
-"Prompting" generally means **giving an instruction or input to guide a response or action**. 
+#prompting generally means **giving an instruction or input to guide a response or action**. 
 
 ### **In computing & AI (like ChatGPT)**
 

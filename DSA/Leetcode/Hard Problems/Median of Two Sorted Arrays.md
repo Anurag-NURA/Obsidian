@@ -82,6 +82,8 @@ The left side should always contain
 
 ```cpp
 leftSize = (n1 + n2 + 1) / 2;
+// +1 so that the median element in odd size always stays in the left partition
+//this formula will make the symmetry true also for even number of elements.
 ```
 
 This formula is used **before** we find the median. 

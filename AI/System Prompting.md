@@ -1,6 +1,6 @@
 ### **System Prompting in AI (LLMs like ChatGPT)**
 
-- A **system prompt** is the **initial hidden instruction** that guides how an AI model should behave.
+- A #system-prompt is the **initial hidden instruction** that guides how an AI model should behave.
 - It tells the AI things like:
     - its role (_“You are ChatGPT, a helpful assistant”_),
     - style (_“Respond politely and concisely”_),

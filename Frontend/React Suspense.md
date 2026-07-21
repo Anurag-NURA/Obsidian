@@ -1,5 +1,4 @@
-# React Suspense
-
+ #react-suspense 
 ## Definition
 Suspense is a rendering mechanism that allows React to pause rendering when a component is not ready.
 
