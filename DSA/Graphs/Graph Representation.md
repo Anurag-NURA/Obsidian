@@ -14,7 +14,7 @@ Answer: $O(|E|)$, As we have to scan the whole *Edge list*. We will have to perf
 Answer: For connected nodes we will be perform a linear search on *Edge List*. Worst case: $O(|E|)$. 
 
 - `How costly is this O(|E|) ?`
-Answer: If we remember from [[Intro]], we discussed that number of edges in an undirected graph is $0<|E|<n(n-1)$ and for directed graph it will be $0<|E|< \frac{n(n-1)}{2}$. From the equation we can also write $O(|E|)$ = $O(|V|*|V|)$, which is costly.
+Answer: If we remember from [[DSA/Graphs/Intro]], we discussed that number of edges in an undirected graph is $0<|E|<n(n-1)$ and for directed graph it will be $0<|E|< \frac{n(n-1)}{2}$. From the equation we can also write $O(|E|)$ = $O(|V|*|V|)$, which is costly.
 
 Example:
 ![[Pasted image 20250524215255.png]]
